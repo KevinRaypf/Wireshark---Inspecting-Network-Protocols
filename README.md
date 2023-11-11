@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
-<h2>Operating Systems Used </h2>
+<h2>🌐Operating Systems Used </h2>
 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
