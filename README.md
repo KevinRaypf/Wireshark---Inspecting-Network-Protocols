@@ -29,6 +29,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Wireshark (Protocol Analyzer)
 
 <h2>🌐Operating Systems Used </h2>
+<img width="499" alt="windo" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/3a60a7db-4493-41c5-b12e-eab7325cd23d">
+
 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
