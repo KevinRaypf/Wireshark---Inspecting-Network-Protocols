@@ -39,7 +39,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="499" alt="windo" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/3a60a7db-4493-41c5-b12e-eab7325cd23d">
 
 
-- Windows 10 (21H2)
+- Windows 11 (21H2)
 - Ubuntu Server 20.04
 
 <h2>High-Level Steps</h2>
@@ -55,6 +55,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <img width="952" alt="remote desktop" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/d836682f-f6f4-433f-9b20-3e7d0e1f2b70">
 
 <img width="376" alt="powershell" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/506d27c5-81e1-4c3f-a0b0-7fd5e7c109df">
+
+<img width="921" alt="VMpic" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/31a8ab26-a94e-4143-ab5a-4fa74ccc06a6">
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
