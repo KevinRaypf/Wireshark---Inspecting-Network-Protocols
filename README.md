@@ -50,6 +50,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Step 4
 
 <h2>Actions and Observations</h2>
+<img width="952" alt="powershell2" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/b1c1a410-c29a-4407-9bf9-7aedf25400a5">
+
+<img width="952" alt="remote desktop" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/d836682f-f6f4-433f-9b20-3e7d0e1f2b70">
+
+<img width="376" alt="powershell" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/506d27c5-81e1-4c3f-a0b0-7fd5e7c109df">
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
