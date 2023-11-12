@@ -30,10 +30,11 @@ Allows you to see what is happening on your network in real time. Read <a href="
 <h2> :art:Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- 🐿️Remote Desktop
+- 🐿️Remote Desktop or Ssh protocol
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
+- Powershell
 
 <h2>🌐Operating Systems Used </h2>
 <img width="499" alt="windo" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/3a60a7db-4493-41c5-b12e-eab7325cd23d">
@@ -44,10 +45,10 @@ Allows you to see what is happening on your network in real time. Read <a href="
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Using Powershell to remote desktop into different system with Ssh protocol.
+- Use icmp to determine web connection.
+- (NSG)Adjust firewall to control traffic
+- Obtain IP address (icmp)
 
 <h2>Actions and Observations</h2>
 <img width="952" alt="powershell2" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/b1c1a410-c29a-4407-9bf9-7aedf25400a5">
