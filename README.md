@@ -9,7 +9,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
       
 
 
-Allows you to see what is happening on your network in real time read <a href="https://1drv.ms/w/s!AhpxyIePAuQGgzONME_Cm_jET6w8?e=UvxASQ">About Wireshark
+Allows you to see what is happening on your network in real time. Read <a href="https://1drv.ms/w/s!AhpxyIePAuQGgzONME_Cm_jET6w8?e=UvxASQ">About Wireshark
 
 
 <p align="center">
