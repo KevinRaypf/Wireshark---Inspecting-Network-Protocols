@@ -1,4 +1,5 @@
 # Wireshark---Inspecting-Network-Protocols-and Inspecting Traffic Between Azure Virtual Machines
+In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 <p align="center">
 <img width="398" alt="Screenshot 2023-11-10 113701" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/5b8c3324-0e87-4377-b6aa-45e27d7b9799">
 </p>
@@ -8,7 +9,7 @@
       
 
 
-Allows you to see what is happening on your network in real time <a href="https://1drv.ms/w/s!AhpxyIePAuQGgzONME_Cm_jET6w8?e=UvxASQ">about wireshark
+Allows you to see what is happening on your network in real time read <a href="https://1drv.ms/w/s!AhpxyIePAuQGgzONME_Cm_jET6w8?e=UvxASQ">About Wireshark
 
 
 <p align="center">
