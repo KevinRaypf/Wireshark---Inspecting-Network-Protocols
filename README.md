@@ -52,12 +52,16 @@ Allows you to see what is happening on your network in real time. Read <a href="
 
 <h2>Actions and Observations</h2>
 <img width="952" alt="powershell2" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/b1c1a410-c29a-4407-9bf9-7aedf25400a5">
+Using Powershell to verify system is able to connect to an outside network.
 
 <img width="952" alt="remote desktop" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/d836682f-f6f4-433f-9b20-3e7d0e1f2b70">
+Example of icmp protocol communicating from one IP address to another.
 
 <img width="376" alt="powershell" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/506d27c5-81e1-4c3f-a0b0-7fd5e7c109df">
+Powershell is what open-source and cross platform.
 
 <img width="921" alt="VMpic" src="https://github.com/KevinRaypf/Wireshark---Inspecting-Network-Protocols/assets/143427903/31a8ab26-a94e-4143-ab5a-4fa74ccc06a6">
+Azure VM are used to control the traffic that is able to be seen by using Wireshark
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -75,10 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
